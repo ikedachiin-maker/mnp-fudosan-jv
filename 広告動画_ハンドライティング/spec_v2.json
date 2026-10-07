@@ -1,0 +1,156 @@
+{
+  "title": "激安不動産_ハンドライティング広告_v2",
+  "voice": {
+    "speed": 1.05,
+    "tag": "[happy, confident]"
+  },
+  "bgm": true,
+  "pen_sound": true,
+  "scenes": [
+    {
+      "id": "s1",
+      "narration": "ふどうさん とうしって、なんぜんまんえんも ひつようだと おもいますよね。",
+      "lines": [
+        {
+          "text": "不動産投資って",
+          "size": 100
+        },
+        {
+          "text": "何千万も必要？",
+          "size": 128,
+          "em": "何千万"
+        }
+      ],
+      "image": {
+        "prompt": "A worried Japanese office worker in a shirt and tie, hands on his head with small sweat drops, looking up at a towering stack of banknote bundles (plain bundles, no numbers or symbols on them)."
+      }
+    },
+    {
+      "id": "s2",
+      "narration": "それ、思い込みです。その常識は、もう古い。",
+      "lines": [
+        {
+          "text": "それ、",
+          "size": 100
+        },
+        {
+          "text": "思い込みです。",
+          "size": 132,
+          "em": "思い込み"
+        }
+      ],
+      "image": {
+        "ref": "ikeda",
+        "prompt": "The man from the reference photo, drawn as a friendly simplified cartoon (same wavy hairstyle, suit and tie), smiling confidently and raising his index finger, with a small light bulb and sparkle lines above his head."
+      }
+    },
+    {
+      "id": "s3",
+      "narration": "実は今、ゼロ円から、高くても30万円以下で買える物件が、日本中にあります。",
+      "lines": [
+        {
+          "text": "0円〜30万円で",
+          "size": 122,
+          "em": "0円〜30万円"
+        },
+        {
+          "text": "買える物件が",
+          "size": 100
+        },
+        {
+          "text": "日本中に",
+          "size": 118,
+          "em": "日本中"
+        }
+      ],
+      "image": {
+        "prompt": "An outline map of the Japanese archipelago with many small simple house icons scattered across the islands."
+      }
+    },
+    {
+      "id": "s4",
+      "narration": "ぎんこう ゆうしは、いりません。けいけんも ちしきも、いりません。げんきん いっかつで、だれでも はじめられます。",
+      "lines": [
+        {
+          "text": "銀行融資 不要",
+          "size": 104,
+          "em": "不要"
+        },
+        {
+          "text": "経験・知識 不要",
+          "size": 104,
+          "em": "不要"
+        },
+        {
+          "text": "現金一括で誰でも",
+          "size": 104,
+          "em": "誰でも"
+        }
+      ],
+      "image": {
+        "prompt": "On the left, a simple classical bank building crossed out with a big X. On the right, a hand holding a thick bundle of cash (plain, no numbers)."
+      }
+    },
+    {
+      "id": "s5",
+      "narration": "実践者の成果も、次々と生まれています。",
+      "lines": [
+        {
+          "text": "実践者の成果も",
+          "size": 108
+        },
+        {
+          "text": "次々と",
+          "size": 132,
+          "em": "次々と"
+        }
+      ],
+      "note": "※個人の実績であり成果を保証するものではありません",
+      "image": {
+        "prompt": "A group of four happy Japanese people of different ages giving thumbs up in front of a small old wooden house, one of them holding up a house key."
+      }
+    },
+    {
+      "id": "s6",
+      "narration": "ゼロ円で買える物件があることを知らずに、このまま老後を迎えてもいいですか？",
+      "lines": [
+        {
+          "text": "知らないまま",
+          "size": 108
+        },
+        {
+          "text": "老後を迎えますか？",
+          "size": 110,
+          "em": "老後"
+        }
+      ],
+      "image": {
+        "prompt": "An elderly Japanese man sitting alone on a park bench, looking thoughtfully at a wall calendar he holds in his hands."
+      }
+    },
+    {
+      "id": "s7",
+      "narration": "詳しくは、無料セミナーで。今すぐ、下のボタンから確認してください。",
+      "lines": [
+        {
+          "text": "詳しくは",
+          "size": 104
+        },
+        {
+          "text": "無料セミナーで",
+          "size": 130,
+          "em": "無料セミナー"
+        }
+      ],
+      "image": {
+        "ref": "ikeda",
+        "prompt": "The man from the reference photo, drawn as a friendly simplified cartoon (same wavy hairstyle, suit and tie), standing beside a whiteboard and presenting with an open hand to a small seated audience seen from behind."
+      },
+      "cta": {
+        "text": "詳しくはこちら ▼",
+        "sub": "不動産投資にはリスクがあります"
+      },
+      "extra_hold": 1.2
+    }
+  ]
+}

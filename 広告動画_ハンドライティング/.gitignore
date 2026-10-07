@@ -1,0 +1,11 @@
+# 作り直せる中間ファイルと聞き比べの候補はgitに入れない（手元には残す）
+out/mix.wav
+out/silent.mp4
+out/activity.json
+out/qa/
+out/aud_v1/
+out/aud_v*_s*.mp3
+out/aud_cand/
+out/*_候補/
+out/激安不動産_ハンドライティング広告_v[1-4].mp4
+out/激安不動産_ハンドライティング広告_v[1-4]_thumb.png
